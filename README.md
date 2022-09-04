@@ -1,4 +1,4 @@
-<h1 align="center">hi <img alt="image" src="https://user-images.githubusercontent.com/77089227/188294595-cd0a3fb4-6b2a-416c-8c03-40cdc528748a.png"/></h1>
+<h1 align="center">hello there , <img height="40px" alt="image" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgi-capp-at2&label=Profile%20views&color=0e75b6&style=flat" alt="sgi-capp-at2" /> </p>
