@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgi-capp-at2&label=Profile%20views&color=0e75b6&style=flat" alt="sgi-capp-at2" /> </p>
 
-- 🔭 I’m currently working on [markdown_workspace](markdown_workspace)
+- 🔭 I’m currently working on [markdown_workspace](https://github.com/SGI-CAPP-AT2/markdown_workspace)
 
 - 🌱 I’m currently learning **Electron + svelte**
 
