@@ -5,7 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgi-capp-at2" alt="sgi-capp-at2" /></a> </p>
 ### My Holopins
+
 [![@shgi's Holopin board](https://holopin.io/api/user/board?user=shgi)](https://holopin.io/@shgi)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
