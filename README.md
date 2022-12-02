@@ -1,5 +1,5 @@
 <h1 align="center">hello there , <img height="40px" alt="image" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sgi-capp-at2&label=Profile%20views&color=0e75b6&style=flat" alt="sgi-capp-at2" /> </p>
 
