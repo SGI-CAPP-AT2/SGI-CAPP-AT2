@@ -23,6 +23,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgi-capp-at2&show_icons=true&locale=en&layout=compact" alt="sgi-capp-at2" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgi-capp-at2&show_icons=true&locale=en" alt="sgi-capp-at2" /></p>
+
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgi-capp-at2&" alt="sgi-capp-at2" /></p>
