@@ -7,13 +7,9 @@
 ###
 
 <div align="left">
-  <a href="https://dev.to/shubham_ingale/">
-  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />
-  </a>
+  <a href="https://dev.to/shubham_ingale/"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  /></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/ShGI/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/ShGI/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /></a>
 </div>
 
 ###
